@@ -155,4 +155,4 @@ int main()
 	// printf("%d",getMinToAdd(s2));
 	exit(0);//faster
 	return 0;
-}
+} 

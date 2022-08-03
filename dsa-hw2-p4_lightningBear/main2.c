@@ -220,3 +220,4 @@ void link(Tree* tree,Tree* node,Tree* old,int root)//協助build把node link到�
 	
 	
 }
+ 

@@ -158,4 +158,4 @@ int findEndSymFromMid(char *s, int end, int head) // head指的是固定端,end�
             return mid - r + 1; //因為最後會多加一次,需剪掉
         }
     }
-}
+} 
